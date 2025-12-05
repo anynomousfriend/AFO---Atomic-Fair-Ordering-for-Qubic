@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+.bun/
+
+# Build outputs
+dist/
+*.o
+*.out
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp_*
+tmp_rovodev_*
+
+# Agent context (keep in repo but no build artifacts)
+*.tmp
