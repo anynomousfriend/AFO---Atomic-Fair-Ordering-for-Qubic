@@ -1,0 +1,28 @@
+{
+  "name": "afo-frontend",
+  "version": "1.0.0",
+  "module": "src/index.tsx",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun src/index.tsx",
+    "build": "bun build src/index.tsx --outfile dist/app.js --target bun",
+    "start": "bun dist/app.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "chalk": "5.x",
+    "dotenv": "^17.2.3",
+    "ink": "4.x",
+    "react": "18.x",
+    "react-devtools-core": "^7.0.1",
+    "strip-ansi": "^7.1.2"
+  }
+}
