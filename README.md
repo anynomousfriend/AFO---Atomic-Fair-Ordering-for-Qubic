@@ -16,6 +16,22 @@
 
 - **🖥️ Web App** (Recommended): [https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/](https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/) - Click buttons, works on any device
 
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  
+### Main Interface
+<img src="./Assets/Screenshot-01.png" alt="AFO Main Interface" width="800"/>
+
+### Intent Management
+<img src="./Assets/Screenshot-02.png" alt="Intent Management" width="800"/>
+
+### Attack Demo Comparison
+<img src="./Assets/Screenshot-03.png" alt="Attack Demo" width="800"/>
+
+</div>
 
 ---
 
