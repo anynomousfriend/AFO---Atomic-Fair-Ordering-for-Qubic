@@ -1,9 +1,12 @@
 # Dependencies
 node_modules/
 .bun/
+web/node_modules/
 
 # Build outputs
 dist/
+web/dist/
+web/dist-ssr/
 *.o
 *.out
 *.exe
@@ -32,3 +35,7 @@ tmp_rovodev_*
 
 # Agent context (keep in repo but no build artifacts)
 *.tmp
+
+# Documentation (keep only README.md)
+*.md
+!README.md

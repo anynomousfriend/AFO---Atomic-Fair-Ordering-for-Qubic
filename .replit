@@ -1,0 +1,17 @@
+run = "cd frontend && bun run dev"
+entrypoint = "frontend/src/index.tsx"
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+run = ["sh", "-c", "cd frontend && bun run dev"]
+deploymentTarget = "cloudrun"
+
+[languages]
+[languages.typescript]
+pattern = "**/*.{ts,tsx}"
+syntax = "typescript"
+
+[languages.typescript.languageServer]
+start = "typescript-language-server --stdio"
