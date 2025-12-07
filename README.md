@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./Assets/logo.png" alt="AFO Logo" width="200"/>
+</div>
+
 # 🚀 AFO - Atomic Fair Ordering for Qubic
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/Atomic-Fair-Ordering-Guard/tree/main/web)
