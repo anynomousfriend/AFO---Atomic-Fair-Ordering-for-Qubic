@@ -11,9 +11,7 @@
 > **Two ways to experience AFO:**
 
 - **🖥️ Web App** (Recommended): [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app) - Click buttons, works on any device
-- **⌨️ Terminal UI**: [Replit](https://replit.com/@YourUsername/Atomic-Fair-Ordering-Guard) - For developers, keyboard-driven interface
 
-*Both demos use the same AFO protocol and mock Qubic testnet*
 
 ---
 
@@ -270,7 +268,7 @@ void reset_epoch();
 
 **No installation needed!** Try the live demo:
 
-**Live Demo**: [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app)
+**Live Demo**: 
 
 Or deploy your own:
 1. Click the **"Deploy with Vercel"** badge above
@@ -590,14 +588,6 @@ This project was created for the **Qubic Nostromo Hackathon** and is open-source
 - Update documentation
 - Ensure demo still runs correctly
 
-### Bug Reports & Feature Requests
-
-Open an issue on GitHub with:
-- Clear description of the problem/feature
-- Steps to reproduce (for bugs)
-- Expected vs actual behavior
-- Screenshots (if applicable)
-
 ---
 
 ## License
@@ -646,26 +636,9 @@ Qubic's consensus mechanism prevents single-validator manipulation. Even if vali
 
 ---
 
-## Contact & Support
-
-- **GitHub Issues**: For bugs and feature requests
-- **Project Repository**: [github.com/yourusername/Atomic-Fair-Ordering-Guard](https://github.com/yourusername/Atomic-Fair-Ordering-Guard)
-- **Web Demo**: [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app)
-- **TUI Demo**: [Run on Replit](https://replit.com/@YourUsername/Atomic-Fair-Ordering-Guard)
-
-## Hackathon Submission
-
-This project was created for the **Qubic Nostromo Hackathon** on lablab.ai.
 
 **Quick Links:**
-- 🌐 **Web Demo**: [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app)
-- ⌨️ **TUI Demo**: [Replit Link](https://replit.com/@YourUsername/Atomic-Fair-Ordering-Guard)
-- 💻 **Source Code**: [GitHub Repository](https://github.com/yourusername/Atomic-Fair-Ordering-Guard)
-- 📖 **Deployment Guides**: 
-  - [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md) - Web app deployment
-  - [REPLIT_SETUP.md](REPLIT_SETUP.md) - TUI setup
-  - [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) - General info
-
+- 🌐 **Web Demo**: [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app
 ---
 
 **Built with ❤️ for the Qubic Nostromo Hackathon**
