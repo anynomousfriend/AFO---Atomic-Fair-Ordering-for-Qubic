@@ -14,7 +14,7 @@
 
 > **Two ways to experience AFO:**
 
-- **🖥️ Web App** (Recommended): Deploy your own using the "Deploy with Vercel" button above
+- **🖥️ Web App** (Recommended): [https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/](https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/) - Click buttons, works on any device
 
 
 ---
@@ -272,7 +272,7 @@ void reset_epoch();
 
 **No installation needed!** Try the live demo:
 
-**Live Demo**: 
+**Live Demo**: [https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/](https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/) 
 
 Or deploy your own:
 1. Click the **"Deploy with Vercel"** badge above
@@ -642,7 +642,7 @@ Qubic's consensus mechanism prevents single-validator manipulation. Even if vali
 
 
 **Quick Links:**
-- 🌐 **Web Demo**: Use the "Deploy with Vercel" button to create your own instance
+- 🌐 **Web Demo**: [https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/](https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/)
 ---
 
 **Built with ❤️ for the Qubic Nostromo Hackathon**
