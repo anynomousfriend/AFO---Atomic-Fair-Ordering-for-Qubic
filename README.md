@@ -14,7 +14,7 @@
 
 > **Two ways to experience AFO:**
 
-- **🖥️ Web App** (Recommended): [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app) - Click buttons, works on any device
+- **🖥️ Web App** (Recommended): Deploy your own using the "Deploy with Vercel" button above
 
 
 ---
@@ -642,7 +642,7 @@ Qubic's consensus mechanism prevents single-validator manipulation. Even if vali
 
 
 **Quick Links:**
-- 🌐 **Web Demo**: [https://afo-qubic.vercel.app](https://afo-qubic.vercel.app
+- 🌐 **Web Demo**: Use the "Deploy with Vercel" button to create your own instance
 ---
 
 **Built with ❤️ for the Qubic Nostromo Hackathon**
