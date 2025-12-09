@@ -4,7 +4,7 @@
 
 # 🚀 AFO - Atomic Fair Ordering for Qubic
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Kagwep/AFO/tree/main/web)
+[![View on Vercel](https://vercel.com/button)](https://afo-qubic-l7z89599i-anynomousfriends-projects.vercel.app/)
 [![Run on Replit](https://replit.com/badge/github/Kagwep/AFO)](https://replit.com/@officialsubhank/AFO-Atomic-Fair-Ordering-for-Qubic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
