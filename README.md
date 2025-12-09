@@ -4,8 +4,8 @@
 
 # 🚀 AFO - Atomic Fair Ordering for Qubic
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/Atomic-Fair-Ordering-Guard/tree/main/web)
-[![Run on Replit](https://replit.com/badge/github/yourusername/Atomic-Fair-Ordering-Guard)](https://replit.com/@YourUsername/Atomic-Fair-Ordering-Guard)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Kagwep/AFO/tree/main/web)
+[![Run on Replit](https://replit.com/badge/github/Kagwep/AFO)](https://replit.com/@officialsubhank/AFO-Atomic-Fair-Ordering-for-Qubic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Atomic Fair Ordering (AFO)** is a production-ready infrastructure middleware that eliminates MEV (Maximal Extractable Value) attacks on Qubic's high-throughput blockchain. By leveraging Qubic's unique tick-based finality, AFO ensures that DeFi transactions are executed in a deterministic, tamper-proof order—making frontrunning and sandwich attacks mathematically impossible.
